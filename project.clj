@@ -23,7 +23,8 @@
                  [luminus-nrepl "0.1.4"]
                  [metosin/compojure-api "1.1.4"]
                  [org.webjars/webjars-locator-jboss-vfs "0.1.0"]
-                 [luminus-immutant "0.2.2"]]
+                 [luminus-immutant "0.2.2"]
+                 [tailrecursion/ring-proxy "3.0.0-SNAPSHOT"]]
 
   :min-lein-version "2.0.0"
 
