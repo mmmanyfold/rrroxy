@@ -2,7 +2,7 @@
 
 _generated using Luminus version "2.9.10.86"_
 
-A general proxy test server for local developement
+A general purpose proxy test server for local developement
 
 ## Prerequisites
 
@@ -20,5 +20,5 @@ To start the clojure web server, run:
 
 To start the node json-server, run:
 
-   npm install json-server -g
-   json-server --watch db.json
+    npm install json-server -g
+    json-server --watch db.json
